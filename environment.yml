@@ -10,7 +10,7 @@ dependencies:
   - pip
   - anaconda::numpy=1.22.3
   - conda-forge::pandas~=1.1.5
-  - pytorch::pytorch=1.12
+  - pytorch::pytorch=1.12.1
   - huggingface::transformers=4.11.3
   - conda-forge::pytorch-lightning=1.6.4
   - conda-forge::huggingface_hub
